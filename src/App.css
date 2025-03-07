@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 600px;
+}
+
+input{
+  padding: 15px;
+}
+
+li{
+  list-style-type: none;
+  border: 2px solid black;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 15px;
+  width: 100%;
+}
+
+p{
+  display: block;
+  width: 450px;
+  word-wrap: break-word;
+}
+
+button{
+  margin: 20px;
+}
